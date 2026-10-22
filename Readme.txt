@@ -1,0 +1,1 @@
+se realizo las preubas con cada uno de los algoritmos que quedaron funcionando en su mayoria el unico problema visible fue con el de el promedio y el de las cuentas ya que al poner una opcion que termine diviendo por 0 saldran errores los cuales terminan la accion del programa sin su funcionamiento completo
